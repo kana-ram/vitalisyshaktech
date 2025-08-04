@@ -1,3 +1,7 @@
-# https://www.robotstxt.org/robotstxt.html
+# robots.txt for VITALISYSHAK Tech LLP
+# More info: https://www.robotstxt.org/robotstxt.html
+
 User-agent: *
 Disallow:
+
+Sitemap: https://www.vitalisyshak.com/sitemap.xml
